@@ -1,0 +1,10 @@
+flake8==5.0.4
+loguru==0.6.0
+requests==2.31.0
+responses>=0.25.7
+python-dotenv==1.0.0
+SQLAlchemy==2.0.4
+datasette==0.59
+sqlite-utils==3.17.1
+openpyxl==3.1.5
+discord==2.5.2
