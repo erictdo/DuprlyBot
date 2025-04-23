@@ -17,3 +17,6 @@ Note: `1234567890` is your DUPR account's unique ID, not the DUPRID.
 Check the DUPR_Share_Link.png to see where to get the link/DUPR account ID.
 
 Check out DUPR's scuffed API: https://backend.mydupr.com/swagger-ui/
+
+## TODO
+ - Store players' data in a database to more easily manage data for future features.
